@@ -14,7 +14,7 @@
   
   [class^=col] {
     margin-top: 10px;
-    flex-basis: 100%;
+    flex-basis: $flex-basis;
     min-height: 25px;
     padding: 10px;
     border-radius: 5px;
@@ -69,6 +69,6 @@
   }
   
   .card {
-    flex-basis: 100%;
+    flex-basis: $flex-basis;
   }
   

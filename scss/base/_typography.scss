@@ -4,7 +4,7 @@
 
 * {
     font-family: $font-stack-primary;
-    color: #777;
+    color: $main-color;
     box-sizing: border-box;
   }
   
@@ -27,7 +27,7 @@
   
   .headline-secondary {
     font-weight: 300;
-    color: #777;
+    color: $main-color;
   }
   
   .link {
